@@ -7,7 +7,7 @@ This is a simple frontend that displays famous quotes from a backend Quote Gener
 
 ## CodeReady Workspaces
 
-[![Contribute](images/factory-contribute.svg)](https://codeready-openshift-workspaces.apps-crc.testing/f?url=https://github.com/snowjet/quotegen-frontend)
+[![Contribute](images/factory-contribute.svg)](https://codeready-openshift-workspaces.apps-crc.testing/f?url=https://github.com/kirikae/quotegen-frontend)
 
 
 ## create application with postgres backend
@@ -37,4 +37,4 @@ oc expose svc/frontend -n ${PROJECT}
 
 ## Backends
 
-See https://github.com/snowjet/demo-quote-gen for backend
+See https://github.com/kirikae/demo-quote-gen for backend

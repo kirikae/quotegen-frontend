@@ -3,7 +3,7 @@ apiVersion: apps.openshift.io/v1
 metadata:
   annotations:
     app.openshift.io/vcs-ref: master
-    app.openshift.io/vcs-uri: 'https://github.com/snowjet/quotegen-frontend.git'
+    app.openshift.io/vcs-uri: 'https://github.com/kirikae/quotegen-frontend.git'
     app.openshift.io/connects-to: 'backend'
   name: frontend
   labels:
